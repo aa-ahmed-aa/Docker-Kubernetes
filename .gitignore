@@ -1,0 +1,52 @@
+/visits/node_modules
+/simpleweb/node_modules
+/complex/client/node_modules
+/complex/server/node_modules
+/complex/worker/node_modules
+/frontend/node_modules
+
+# ignored of frontend folder
+# dependencies
+
+/frontend/.pnp
+/frontend/.pnp.js
+
+# testing
+/frontend/coverage
+
+# production
+/frontend/build
+
+# misc
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+
+# ignored of /complex/client folder
+# dependencies
+
+/complex/client/.pnp
+/complex/client/.pnp.js
+
+# testing
+/complex/client/coverage
+
+# production
+/complex/client/build
+
+# misc
+/complex/client/.DS_Store
+/complex/client/.env.local
+/complex/client/.env.development.local
+/complex/client/.env.test.local
+/complex/client/.env.production.local
+
+/complex/client/npm-debug.log*
+/complex/client/yarn-debug.log*
+/complex/client/yarn-error.log*
