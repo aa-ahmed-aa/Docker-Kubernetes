@@ -1,4 +1,4 @@
-# Docker-Kubernetes-projects
+# Docker-Kubernetes
 Studying docker and kubernetes projects
 
 ## Topic By Project
@@ -30,3 +30,12 @@ Architecture
 
 this is a dockerized MEAN stack over production and testing environments KADUOS.
 > **Images used**: postgres, redis, nginx, api, client, worker
+
+### [simplek8s](https://github.com/aa-ahmed-aa/Docker-Kubernetes-projects/tree/master/simplek8s)
+Architecture 
+- A Pod containing multi-client image.
+- Servicepointing to the container.
+- Deployment having1 replica of our container. 
+
+Single Pod, Service, Deployment to test out minikube and Kubectl commands.
+> **Images used**: ahmedkhd36/multi-client
