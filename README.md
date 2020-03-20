@@ -1,6 +1,7 @@
 # Docker-Kubernetes
-Studying docker and kubernetes projects
-
+Studying docker and kubernetes projects. <br>
+#### Blog Post
+ https://www.notion.so/Docker-Kubernetes-0181ef3069964e7b8848fae8cc18c7e0 
 ## Topic By Project
 
 ### [visits](https://github.com/aa-ahmed-aa/Docker-Kubernetes-projects/tree/master/visits)
