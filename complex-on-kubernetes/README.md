@@ -6,6 +6,8 @@ This is the complex project working on kubernetes without the nginx image instea
 ![Complex-on-kubernetes](https://github.com/aa-ahmed-aa/Docker-Kubernetes/blob/master/complex-on-kubernetes/diagram.png)
 
 ## Run
+first you need to create secret for postgress password
+> kubectl create secret generic pgpassword --from-literal PGPASSWORD=12345asdf
 apply all objects you see in the image above
 > kubectl apply -f k8s
 
