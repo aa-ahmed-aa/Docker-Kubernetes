@@ -40,3 +40,9 @@ Architecture
 
 Single Pod, Service, Deployment to test out minikube and Kubectl commands.
 > **Images used**: ahmedkhd36/multi-client
+
+
+
+### [complex-on-kubernetes](https://github.com/aa-ahmed-aa/Docker-Kubernetes/tree/master/complex-on-kubernetes)
+
+> **Images used**: redis, postgres, ahmedkhd36/multi-client, ahmedkhd36/multi-worker, ahmedkhd36/multi-server
