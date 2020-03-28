@@ -43,12 +43,12 @@ Single Pod, Service, Deployment to test out minikube and Kubectl commands.
 
 
 
-### [complex-on-kubernetes](https://github.com/aa-ahmed-aa/Docker-Kubernetes/tree/master/complex-on-kubernetes)👑🐋
+### [complex-on-kubernetes](https://github.com/aa-ahmed-aa/Docker-Kubernetes/tree/master/complex-on-kubernetes) 🤖
 
 > **Images used**: redis, postgres, ahmedkhd36/multi-client, ahmedkhd36/multi-worker, ahmedkhd36/multi-server
 
 
-### [complex-k8s-googlecloud](https://github.com/aa-ahmed-aa/Docker-Kubernetes/tree/master/complex-k8s-googlecloud)👑🐋
+### [complex-k8s-googlecloud](https://github.com/aa-ahmed-aa/Docker-Kubernetes/tree/master/complex-k8s-googlecloud) 🔮
 
 This is the complex project on k8s and using travisCI and google cloud for deployment and `deploy.sh` script to deploy the cluster to production
 
